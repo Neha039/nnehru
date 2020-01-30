@@ -5,7 +5,7 @@ body, html {
 
 #main-nav{
     border-bottom:1px solid rgba(33,37,41,.1);
-    background-color:#fff;
+    background-color:rgb(243, 127, 195);
     /* font-family:'Open Sans','Helvetica Neue',Arial,sans-serif; */
     -webkit-transition:all .2s;
     -moz-transition:all .2s;
@@ -16,13 +16,13 @@ body, html {
     font-size: 2em;
     font-weight: 700;
     text-transform: uppercase;
-    color: #f05f40;
+    color: darkcyan;
     /* font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; */
 }
 
 
 #main-nav .navbar-brand:focus,#main-nav .navbar-brand:hover{
-    color:#f05f40
+    color:darkcyan;
 }
 
 #main-nav .navbar-nav>li>a,#main-nav .navbar-nav>li>a:focus{
@@ -33,7 +33,7 @@ body, html {
 }
 
 #main-nav .navbar-nav>li>a:focus:hover,#main-nav .navbar-nav>li>a:hover{
-    color:#f05f40
+    color:darkcyan;
 }
 
 #main-nav .navbar-nav>li.active>a,#main-nav .navbar-nav>li>a:focus.ac{
@@ -102,7 +102,7 @@ body, html {
 
 .jumbotron a {
     padding: 15px 18px;
-    background-color: #f05f40;
+    background-color: lightcoral;
     border-radius: 50%;
     color: #fff
 }
@@ -152,7 +152,7 @@ h1.title {
 
 #skills {
     text-align: center;
-    background-color: #f05f40;
+    background-color: lightcoral;
     color: white;
 }
 
